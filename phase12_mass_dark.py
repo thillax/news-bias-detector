@@ -1165,10 +1165,10 @@ def export_csv():
     query = 'SELECT title,source,sentiment,polarity,url,published_date FROM articles WHERE 1=1'
     params = []
     
-    if sentiment_f != 'all':
-        query += ' AND sentiment=?'
+    if sentiment_f and not sentiment_f.startswith('all'):
+        query += ' AND LOWER(sentiment)=?'
         params.append(sentiment_f)
-    if source_f != 'all':
+    if source_f and not source_f.lower().startswith('all'):
         query += ' AND source=?'
         params.append(source_f)
         
