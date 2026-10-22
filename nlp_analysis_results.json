@@ -1,0 +1,443 @@
+{
+  "total_processed": 200,
+  "ner": {
+    "entity_types": {
+      "GPE": 304,
+      "PERSON": 274,
+      "ORGANIZATION": 208,
+      "FACILITY": 4,
+      "GSP": 11,
+      "LOCATION": 8
+    },
+    "top_entities": [
+      [
+        "US",
+        25
+      ],
+      [
+        "CNN",
+        16
+      ],
+      [
+        "Iran",
+        16
+      ],
+      [
+        "Trump",
+        15
+      ],
+      [
+        "Russian",
+        9
+      ],
+      [
+        "China",
+        9
+      ],
+      [
+        "Finland",
+        8
+      ],
+      [
+        "Taiwan",
+        7
+      ],
+      [
+        "Israeli",
+        7
+      ],
+      [
+        "Palestinian",
+        7
+      ],
+      [
+        "Donald Trump",
+        6
+      ],
+      [
+        "Chinese",
+        6
+      ],
+      [
+        "Beijing",
+        6
+      ],
+      [
+        "Sanna Marin",
+        6
+      ],
+      [
+        "New York",
+        6
+      ],
+      [
+        "Japan",
+        6
+      ],
+      [
+        "Asia",
+        5
+      ],
+      [
+        "Israel",
+        5
+      ],
+      [
+        "BJP",
+        5
+      ],
+      [
+        "U S",
+        5
+      ],
+      [
+        "Centre",
+        5
+      ],
+      [
+        "Iraq",
+        5
+      ],
+      [
+        "Video",
+        4
+      ],
+      [
+        "French",
+        4
+      ],
+      [
+        "Playboy",
+        4
+      ],
+      [
+        "National Coalition Party",
+        4
+      ],
+      [
+        "Germany",
+        4
+      ],
+      [
+        "Elon Musk",
+        4
+      ],
+      [
+        "Twitter",
+        4
+      ],
+      [
+        "America",
+        4
+      ],
+      [
+        "Europe",
+        4
+      ],
+      [
+        "OPEC",
+        4
+      ],
+      [
+        "Marjorie Taylor Greene",
+        4
+      ],
+      [
+        "Africa",
+        4
+      ],
+      [
+        "German",
+        4
+      ],
+      [
+        "Black",
+        4
+      ],
+      [
+        "Scotland",
+        4
+      ],
+      [
+        "Paris Saint Germain",
+        4
+      ],
+      [
+        "Chelsea",
+        4
+      ],
+      [
+        "Star Wars",
+        4
+      ],
+      [
+        "LSU",
+        4
+      ],
+      [
+        "NCAA",
+        4
+      ],
+      [
+        "Rory McIlroy",
+        4
+      ],
+      [
+        "Dipke",
+        4
+      ],
+      [
+        "Jordan",
+        4
+      ],
+      [
+        "British",
+        3
+      ],
+      [
+        "Iranian",
+        3
+      ],
+      [
+        "Republican",
+        3
+      ],
+      [
+        "Canadian",
+        3
+      ],
+      [
+        "Karnataka",
+        3
+      ]
+    ]
+  },
+  "pos": {
+    "distribution": {
+      "NN": 1355,
+      "NNP": 1347,
+      "IN": 883,
+      "DT": 531,
+      "JJ": 515,
+      "NNS": 486,
+      "VBD": 266,
+      "VBZ": 265,
+      "VB": 215,
+      "TO": 180,
+      "VBN": 179,
+      "RB": 164,
+      "VBG": 157,
+      "CC": 136,
+      "VBP": 107,
+      "PRP$": 68,
+      "PRP": 63,
+      "CD": 53,
+      "RP": 38,
+      "MD": 35
+    }
+  },
+  "lemmas": {
+    "top_keywords": [
+      [
+        "trump",
+        25
+      ],
+      [
+        "year",
+        24
+      ],
+      [
+        "minister",
+        23
+      ],
+      [
+        "election",
+        18
+      ],
+      [
+        "national",
+        18
+      ],
+      [
+        "say",
+        17
+      ],
+      [
+        "iran",
+        17
+      ],
+      [
+        "time",
+        16
+      ],
+      [
+        "attack",
+        15
+      ],
+      [
+        "show",
+        15
+      ],
+      [
+        "state",
+        15
+      ],
+      [
+        "first",
+        15
+      ],
+      [
+        "world",
+        14
+      ],
+      [
+        "country",
+        13
+      ],
+      [
+        "said",
+        12
+      ],
+      [
+        "wing",
+        12
+      ],
+      [
+        "right",
+        12
+      ],
+      [
+        "protest",
+        12
+      ],
+      [
+        "court",
+        11
+      ],
+      [
+        "china",
+        11
+      ],
+      [
+        "four",
+        11
+      ],
+      [
+        "prime",
+        11
+      ],
+      [
+        "face",
+        11
+      ],
+      [
+        "video",
+        10
+      ],
+      [
+        "record",
+        10
+      ],
+      [
+        "plan",
+        10
+      ],
+      [
+        "woman",
+        10
+      ],
+      [
+        "musk",
+        10
+      ],
+      [
+        "twitter",
+        10
+      ],
+      [
+        "police",
+        10
+      ],
+      [
+        "strike",
+        10
+      ],
+      [
+        "russian",
+        9
+      ],
+      [
+        "military",
+        9
+      ],
+      [
+        "report",
+        9
+      ],
+      [
+        "meeting",
+        9
+      ],
+      [
+        "risk",
+        9
+      ],
+      [
+        "people",
+        9
+      ],
+      [
+        "scientist",
+        9
+      ],
+      [
+        "call",
+        9
+      ],
+      [
+        "ever",
+        9
+      ],
+      [
+        "higher",
+        9
+      ],
+      [
+        "seek",
+        9
+      ],
+      [
+        "cafe",
+        8
+      ],
+      [
+        "able",
+        8
+      ],
+      [
+        "president",
+        8
+      ],
+      [
+        "last",
+        8
+      ],
+      [
+        "front",
+        8
+      ],
+      [
+        "spoke",
+        8
+      ],
+      [
+        "take",
+        8
+      ],
+      [
+        "party",
+        8
+      ]
+    ]
+  }
+}

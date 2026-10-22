@@ -1,0 +1,10 @@
+{
+  "model": "VADER Sentiment Analyzer",
+  "test_size": 40,
+  "correct": 36,
+  "accuracy": 90.0,
+  "f1_macro": 90.0,
+  "f1_weighted": 89.9,
+  "precision": 90.0,
+  "recall": 90.0
+}

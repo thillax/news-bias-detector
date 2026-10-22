@@ -1,0 +1,158 @@
+{
+  "AI/Technology": {
+    "CNN": {
+      "total": 161,
+      "positive": 49,
+      "neutral": 28,
+      "negative": 84,
+      "pos_pct": 30.4,
+      "neu_pct": 17.4,
+      "neg_pct": 52.2,
+      "avg_polarity": -0.174
+    },
+    "The Hindu": {
+      "total": 199,
+      "positive": 70,
+      "neutral": 42,
+      "negative": 87,
+      "pos_pct": 35.2,
+      "neu_pct": 21.1,
+      "neg_pct": 43.7,
+      "avg_polarity": -0.079
+    },
+    "Al Jazeera": {
+      "total": 88,
+      "positive": 34,
+      "neutral": 16,
+      "negative": 38,
+      "pos_pct": 38.6,
+      "neu_pct": 18.2,
+      "neg_pct": 43.2,
+      "avg_polarity": -0.051
+    },
+    "NPR": {
+      "total": 49,
+      "positive": 18,
+      "neutral": 10,
+      "negative": 21,
+      "pos_pct": 36.7,
+      "neu_pct": 20.4,
+      "neg_pct": 42.9,
+      "avg_polarity": -0.054
+    }
+  },
+  "Politics/Trump": {
+    "CNN": {
+      "total": 49,
+      "positive": 14,
+      "neutral": 14,
+      "negative": 21,
+      "pos_pct": 28.6,
+      "neu_pct": 28.6,
+      "neg_pct": 42.9,
+      "avg_polarity": -0.026
+    },
+    "The Hindu": {
+      "total": 7,
+      "positive": 0,
+      "neutral": 3,
+      "negative": 4,
+      "pos_pct": 0.0,
+      "neu_pct": 42.9,
+      "neg_pct": 57.1,
+      "avg_polarity": -0.306
+    },
+    "Al Jazeera": {
+      "total": 37,
+      "positive": 12,
+      "neutral": 0,
+      "negative": 25,
+      "pos_pct": 32.4,
+      "neu_pct": 0.0,
+      "neg_pct": 67.6,
+      "avg_polarity": -0.12
+    },
+    "NPR": {
+      "total": 14,
+      "positive": 7,
+      "neutral": 0,
+      "negative": 7,
+      "pos_pct": 50.0,
+      "neu_pct": 0.0,
+      "neg_pct": 50.0,
+      "avg_polarity": -0.222
+    }
+  },
+  "War/Conflict": {
+    "CNN": {
+      "total": 49,
+      "positive": 7,
+      "neutral": 7,
+      "negative": 35,
+      "pos_pct": 14.3,
+      "neu_pct": 14.3,
+      "neg_pct": 71.4,
+      "avg_polarity": -0.405
+    },
+    "The Hindu": {
+      "total": 13,
+      "positive": 2,
+      "neutral": 9,
+      "negative": 2,
+      "pos_pct": 15.4,
+      "neu_pct": 69.2,
+      "neg_pct": 15.4,
+      "avg_polarity": 0.027
+    },
+    "Al Jazeera": {
+      "total": 25,
+      "positive": 4,
+      "neutral": 10,
+      "negative": 11,
+      "pos_pct": 16.0,
+      "neu_pct": 40.0,
+      "neg_pct": 44.0,
+      "avg_polarity": -0.234
+    },
+    "NPR": null
+  },
+  "Economy": {
+    "CNN": {
+      "total": 7,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 7,
+      "pos_pct": 0.0,
+      "neu_pct": 0.0,
+      "neg_pct": 100.0,
+      "avg_polarity": -0.382
+    },
+    "The Hindu": {
+      "total": 7,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 7,
+      "pos_pct": 0.0,
+      "neu_pct": 0.0,
+      "neg_pct": 100.0,
+      "avg_polarity": -0.325
+    },
+    "Al Jazeera": null,
+    "NPR": null
+  },
+  "Climate": {
+    "CNN": null,
+    "The Hindu": null,
+    "Al Jazeera": {
+      "total": 4,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 4,
+      "pos_pct": 0.0,
+      "neu_pct": 0.0,
+      "neg_pct": 100.0,
+      "avg_polarity": -0.527
+    },
+    "NPR": null
+  }
+}

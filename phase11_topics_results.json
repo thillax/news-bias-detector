@@ -1,0 +1,130 @@
+{
+  "total_articles": 1015,
+  "total_topics": 10,
+  "topic_distribution": {
+    "Technology": 604,
+    "Other": 165,
+    "Politics": 121,
+    "World": 51,
+    "Health": 20,
+    "Entertainment": 18,
+    "Economics": 17,
+    "Sports": 7,
+    "Science": 7,
+    "Climate": 5
+  },
+  "topic_sentiment": [
+    {
+      "topic": "Technology",
+      "total": 604,
+      "positive": 192,
+      "neutral": 330,
+      "negative": 82,
+      "pos_%": 31.8,
+      "neu_%": 54.6,
+      "neg_%": 13.6
+    },
+    {
+      "topic": "Other",
+      "total": 165,
+      "positive": 48,
+      "neutral": 104,
+      "negative": 13,
+      "pos_%": 29.1,
+      "neu_%": 63.0,
+      "neg_%": 7.9
+    },
+    {
+      "topic": "Politics",
+      "total": 121,
+      "positive": 14,
+      "neutral": 98,
+      "negative": 9,
+      "pos_%": 11.6,
+      "neu_%": 81.0,
+      "neg_%": 7.4
+    },
+    {
+      "topic": "World",
+      "total": 51,
+      "positive": 9,
+      "neutral": 31,
+      "negative": 11,
+      "pos_%": 17.6,
+      "neu_%": 60.8,
+      "neg_%": 21.6
+    },
+    {
+      "topic": "Health",
+      "total": 20,
+      "positive": 1,
+      "neutral": 14,
+      "negative": 5,
+      "pos_%": 5.0,
+      "neu_%": 70.0,
+      "neg_%": 25.0
+    },
+    {
+      "topic": "Entertainment",
+      "total": 18,
+      "positive": 18,
+      "neutral": 0,
+      "negative": 0,
+      "pos_%": 100.0,
+      "neu_%": 0.0,
+      "neg_%": 0.0
+    },
+    {
+      "topic": "Economics",
+      "total": 17,
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0,
+      "pos_%": 0.0,
+      "neu_%": 100.0,
+      "neg_%": 0.0
+    },
+    {
+      "topic": "Sports",
+      "total": 7,
+      "positive": 7,
+      "neutral": 0,
+      "negative": 0,
+      "pos_%": 100.0,
+      "neu_%": 0.0,
+      "neg_%": 0.0
+    },
+    {
+      "topic": "Science",
+      "total": 7,
+      "positive": 7,
+      "neutral": 0,
+      "negative": 0,
+      "pos_%": 100.0,
+      "neu_%": 0.0,
+      "neg_%": 0.0
+    },
+    {
+      "topic": "Climate",
+      "total": 5,
+      "positive": 5,
+      "neutral": 0,
+      "negative": 0,
+      "pos_%": 100.0,
+      "neu_%": 0.0,
+      "neg_%": 0.0
+    }
+  ],
+  "topics_list": [
+    "Technology",
+    "Other",
+    "Politics",
+    "World",
+    "Health",
+    "Entertainment",
+    "Economics",
+    "Sports",
+    "Science",
+    "Climate"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "model": "LDA (Latent Dirichlet Allocation)",
+  "num_topics": 10,
+  "total_articles": 1015,
+  "processed_articles": 1015,
+  "topics": [
+    {
+      "topic_id": 1,
+      "keywords": [
+        "trump",
+        "iran",
+        "west",
+        "hard",
+        "animal",
+        "willis",
+        "asia",
+        "cemetery"
+      ],
+      "representation": "0.016*\"trump\" + 0.015*\"iran\" + 0.011*\"west\" + 0.009*\"hard\" + 0.009*\"animal\" + 0.009*\"willis\" + 0.009*\"asia\" + 0.009*\"cemetery\""
+    },
+    {
+      "topic_id": 2,
+      "keywords": [
+        "trump",
+        "industry",
+        "tornado",
+        "founder",
+        "justice",
+        "court",
+        "case",
+        "attack"
+      ],
+      "representation": "0.035*\"trump\" + 0.010*\"industry\" + 0.010*\"tornado\" + 0.009*\"founder\" + 0.008*\"justice\" + 0.008*\"court\" + 0.008*\"case\" + 0.008*\"attack\""
+    },
+    {
+      "topic_id": 3,
+      "keywords": [
+        "minister",
+        "saudi",
+        "sugar",
+        "bihar",
+        "seek",
+        "attack",
+        "strike",
+        "tanker"
+      ],
+      "representation": "0.023*\"minister\" + 0.015*\"saudi\" + 0.015*\"sugar\" + 0.015*\"bihar\" + 0.012*\"seek\" + 0.012*\"attack\" + 0.011*\"strike\" + 0.011*\"tanker\""
+    },
+    {
+      "topic_id": 4,
+      "keywords": [
+        "wing",
+        "election",
+        "right",
+        "prime",
+        "minister",
+        "finland",
+        "woman",
+        "store"
+      ],
+      "representation": "0.019*\"wing\" + 0.018*\"election\" + 0.015*\"right\" + 0.013*\"prime\" + 0.013*\"minister\" + 0.013*\"finland\" + 0.010*\"woman\" + 0.010*\"store\""
+    },
+    {
+      "topic_id": 5,
+      "keywords": [
+        "risk",
+        "water",
+        "technology",
+        "probe",
+        "china",
+        "higher",
+        "expert",
+        "taiwan"
+      ],
+      "representation": "0.011*\"risk\" + 0.011*\"water\" + 0.008*\"technology\" + 0.008*\"probe\" + 0.008*\"china\" + 0.008*\"higher\" + 0.008*\"expert\" + 0.008*\"taiwan\""
+    },
+    {
+      "topic_id": 6,
+      "keywords": [
+        "strike",
+        "iran",
+        "say",
+        "saudi",
+        "missile",
+        "force",
+        "base",
+        "world"
+      ],
+      "representation": "0.014*\"strike\" + 0.013*\"iran\" + 0.010*\"say\" + 0.009*\"saudi\" + 0.009*\"missile\" + 0.008*\"force\" + 0.008*\"base\" + 0.008*\"world\""
+    },
+    {
+      "topic_id": 7,
+      "keywords": [
+        "post",
+        "coal",
+        "star",
+        "court",
+        "additional",
+        "special",
+        "terrorism",
+        "acosta"
+      ],
+      "representation": "0.012*\"post\" + 0.011*\"coal\" + 0.011*\"star\" + 0.008*\"court\" + 0.008*\"additional\" + 0.008*\"special\" + 0.008*\"terrorism\" + 0.008*\"acosta\""
+    },
+    {
+      "topic_id": 8,
+      "keywords": [
+        "year",
+        "world",
+        "record",
+        "subsidy",
+        "wildfire",
+        "activist",
+        "cost",
+        "charged"
+      ],
+      "representation": "0.024*\"year\" + 0.012*\"world\" + 0.012*\"record\" + 0.011*\"subsidy\" + 0.010*\"wildfire\" + 0.010*\"activist\" + 0.010*\"cost\" + 0.009*\"charged\""
+    },
+    {
+      "topic_id": 9,
+      "keywords": [
+        "year",
+        "police",
+        "suspected",
+        "iran",
+        "face",
+        "refugee",
+        "world",
+        "fifa"
+      ],
+      "representation": "0.012*\"year\" + 0.012*\"police\" + 0.010*\"suspected\" + 0.009*\"iran\" + 0.009*\"face\" + 0.007*\"refugee\" + 0.006*\"world\" + 0.006*\"fifa\""
+    },
+    {
+      "topic_id": 10,
+      "keywords": [
+        "national",
+        "state",
+        "speaker",
+        "time",
+        "protest",
+        "crude",
+        "woman",
+        "police"
+      ],
+      "representation": "0.015*\"national\" + 0.013*\"state\" + 0.011*\"speaker\" + 0.011*\"time\" + 0.010*\"protest\" + 0.010*\"crude\" + 0.008*\"woman\" + 0.008*\"police\""
+    }
+  ],
+  "topic_distribution": {
+    "Environment & Climate": 92,
+    "Technology & Innovation": 112,
+    "Economy & Finance": 91,
+    "Crime & Justice": 115,
+    "Business & Industry": 89,
+    "Politics & Government": 114,
+    "World Affairs": 95,
+    "Health & Science": 97,
+    "Sports & Entertainment": 128,
+    "Social Issues": 82
+  },
+  "topic_names": {
+    "0": "Politics & Government",
+    "1": "Technology & Innovation",
+    "2": "World Affairs",
+    "3": "Economy & Finance",
+    "4": "Health & Science",
+    "5": "Sports & Entertainment",
+    "6": "Environment & Climate",
+    "7": "Social Issues",
+    "8": "Crime & Justice",
+    "9": "Business & Industry"
+  }
+}

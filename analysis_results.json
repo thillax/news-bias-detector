@@ -1,0 +1,5222 @@
+{
+  "total": 1015,
+  "positive": 275,
+  "neutral": 473,
+  "negative": 121,
+  "articles": [
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.1
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "French minister under fire for Playboy magazine cover",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Britain's pound is beating every other major currency this year",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Finland's Prime Minister Sanna Marin concedes election",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.18
+    },
+    {
+      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Video shows moment man throws yogurt on two women in Iran",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.12
+    },
+    {
+      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.09
+    },
+    {
+      "title": "Erdogan's political fate may be determined by Turkey's Kurds",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.06
+    },
+    {
+      "title": "Man rides out tornado inside van. See the footage",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "China Renaissance suspends trading, delays results after founder's disappearance",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "HSBC's top execs face tense shareholders calling for a breakup",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Lawmaker speaks out about his struggle with depression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "CEOs are tired of being held responsible for gun regulation",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "What pet cemeteries reveal about being human",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.28
+    },
+    {
+      "title": "Scientists film deepest ever fish on seabed off Japan",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.05
+    },
+    {
+      "title": "What OPEC's surprise oil cut means for gas prices",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.4
+    },
+    {
+      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "These are the animals people most want to see photographed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.35
+    },
+    {
+      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.21
+    },
+    {
+      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.04
+    },
+    {
+      "title": "See the world's deepest fish",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.38
+    },
+    {
+      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Teenage swimmer breaks two world records in four days",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "Shania Twain calls for equal pay and more diversity in country music",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "CJP\u2019s Dipke warns Govt. against 'harassing' students; seeks action over pellet gun use",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Karnataka getting ready for Tamil Nadu CM Vijay\u2019s possible visit",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "Bankipur byelection: Polling begins as all eyes on contest between Prashant Kishor and BJP\u2019s Neeraj Kumar Sinha",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military launches new strikes on Iran",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Join BJP or parents will be in trouble: Dipke's mother recalls \u2018video threat\u2019 her son received",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "CJP protest | Fresh reports of detentions, takedown of social media posts emerge",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "Centre\u2019s assurance cannot override statutory processes governing withdrawal of FIRs, experts say",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Cauvery row: Cauvery Water Management Authority\u2019s meeting on July 30",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "\u2018Ramayana\u2019 Rama glimpse: Ranbir Kapoor holds sway as the Lord in Nitesh Tiwari\u2019s magnum opus",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kavach 4.0 set for major expansion across SCR, ScoR networks",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "\u2018Don\u2019t be nosy parkers' in marriages of consenting adults, Allahabad HC tells U.P. Police",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Lawyers teamed up to ensure bail within hours of SC order for 16 arrested over July 24 Kolkata stir",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Farmer, worker groups to intensify protests against Centre\u2019s policies",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Madhya Pradesh hikes moong procurement cap to 60% as farmers protest",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "PM Modi to lay foundation stone on November 20 for two sugar mills at Sakri & Raiyam in Bihar",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "CWG 2026 India\u2019s medal tally: Complete list of winners and table",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Commonwealth Games: Sreeshankar leaps into history with second straight silver for long jump; Tajay Gayle wins gold",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port: British maritime security firm",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Salman Rushdie testifies against man charged with stabbing him",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Morning Digest: Iran, U.S. resume strikes in West Asia after brief pause; Oppn. plans to raise Ram Temple donation \u2018scam\u2019 in Parliament, and more",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kashmir\u2019s first ever international film festival attracts 875 submissions from 50 countries",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Public Examinations Amendment Bill 2026: Tougher penalties face implementation hurdles, backlog challenges",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "West Asia war updates: Trump says U.S. to hit Iran hard",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bihar cabinet gives nod to fill up 22,981 posts of Anganwadi workers",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.36
+    },
+    {
+      "title": "Parliament Committee calls for upgrading washery infrastructure to spur domestic higher-quality coal production",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Delhi HC declines to stay HPV vaccination drive, seeks Centre\u2019s reply",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "BTS pulls out of Grammys after Asian pop category introduction",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.13
+    },
+    {
+      "title": "Ten years and 7 PMs later, did Brexit make a difference?",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Kerala Tourism to push for driver facilities in star-rating norms for hotels and resorts",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "AKPCTA seeks govt. intervention to end administrative crisis at technical varsity",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "City police incinerate 587 kg of suspected ganja, other seized contraband",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.25
+    },
+    {
+      "title": "Students return to Jantar Mantar over \u2018police crackdown\u2019",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "CAQM urges NCR States to deploy drones to monitor stubble burning",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.17
+    },
+    {
+      "title": "DMK, BJP and AIADMK share rare camaraderie while flagging civic issues at Council meeting",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.33
+    },
+    {
+      "title": "Govt. simplifies NEET-UG 2026 counselling process",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "GCC councillors accuse State govt. of denying their rights",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "GCC Council passes 19 resolutions at nearly six-hour long meeting",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.07
+    },
+    {
+      "title": "DVAC books former DMK Minister Senthilbalaji; conducts searches at 41 locations across T.N.",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Textile associations demand measures to reduce power costs in T.N.",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "AIADMK whip challenges amendment made to Assembly resolution against Mekedatu project",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.47
+    },
+    {
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Nicaragua\u2019s Daniel Ortega aims to bar \u2018traitors\u2019 from future elections",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.5
+    },
+    {
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iraq calls Saudi-US attacks a \u2018flagrant violation of sovereignty\u2019",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Is FIFA selling parts of the World Cup to private investors?",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.14
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Trump\u2019s attorney general pick faces possible Republican roadblock",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Algeria elects first-ever woman speaker of parliament",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "James Comey\u2019s lawyers say US government distorted details in seashell case",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "New investigation shows how an Israeli settler escaped justice",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Ice cream for education: Gaza cafe raises funds for studies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Al-Shabab kills five Kenyan security personnel in ambush",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.44
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": -0.08
+    },
+    {
+      "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.1
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "French minister under fire for Playboy magazine cover",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Britain's pound is beating every other major currency this year",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Finland's Prime Minister Sanna Marin concedes election",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.18
+    },
+    {
+      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Video shows moment man throws yogurt on two women in Iran",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.12
+    },
+    {
+      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.09
+    },
+    {
+      "title": "Erdogan's political fate may be determined by Turkey's Kurds",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.06
+    },
+    {
+      "title": "Man rides out tornado inside van. See the footage",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "China Renaissance suspends trading, delays results after founder's disappearance",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "HSBC's top execs face tense shareholders calling for a breakup",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Lawmaker speaks out about his struggle with depression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "CEOs are tired of being held responsible for gun regulation",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "What pet cemeteries reveal about being human",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.28
+    },
+    {
+      "title": "Scientists film deepest ever fish on seabed off Japan",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.05
+    },
+    {
+      "title": "What OPEC's surprise oil cut means for gas prices",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.4
+    },
+    {
+      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "These are the animals people most want to see photographed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.35
+    },
+    {
+      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.21
+    },
+    {
+      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.04
+    },
+    {
+      "title": "See the world's deepest fish",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.38
+    },
+    {
+      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Teenage swimmer breaks two world records in four days",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "Shania Twain calls for equal pay and more diversity in country music",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A.P. to get four female tigers from Maharashtra and Madhya Pradesh soon",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "CJP\u2019s Dipke warns Govt. against 'harassing' students; seeks action over pellet gun use",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Karnataka getting ready for Tamil Nadu CM Vijay\u2019s possible visit",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "Bankipur byelection: Polling begins as all eyes on contest between Prashant Kishor and BJP\u2019s Neeraj Kumar Sinha",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military launches new strikes on Iran",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Join BJP or parents will be in trouble: Dipke's mother recalls \u2018video threat\u2019 her son received",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "CJP protest | Fresh reports of detentions, takedown of social media posts emerge",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "Centre\u2019s assurance cannot override statutory processes governing withdrawal of FIRs, experts say",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Cauvery row: Cauvery Water Management Authority\u2019s meeting on July 30",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "\u2018Ramayana\u2019 Rama glimpse: Ranbir Kapoor holds sway as the Lord in Nitesh Tiwari\u2019s magnum opus",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kavach 4.0 set for major expansion across SCR, ScoR networks",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "\u2018Don\u2019t be nosy parkers' in marriages of consenting adults, Allahabad HC tells U.P. Police",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Lawyers teamed up to ensure bail within hours of SC order for 16 arrested over July 24 Kolkata stir",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Farmer, worker groups to intensify protests against Centre\u2019s policies",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Madhya Pradesh hikes moong procurement cap to 60% as farmers protest",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "PM Modi to lay foundation stone on November 20 for two sugar mills at Sakri & Raiyam in Bihar",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "CWG 2026 India\u2019s medal tally: Complete list of winners and table",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Commonwealth Games: Sreeshankar leaps into history with second straight silver for long jump; Tajay Gayle wins gold",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port: British maritime security firm",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Salman Rushdie testifies against man charged with stabbing him",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Morning Digest: Iran, U.S. resume strikes in West Asia after brief pause; Oppn. plans to raise Ram Temple donation \u2018scam\u2019 in Parliament, and more",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kashmir\u2019s first ever international film festival attracts 875 submissions from 50 countries",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Public Examinations Amendment Bill 2026: Tougher penalties face implementation hurdles, backlog challenges",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "West Asia war updates: Trump says U.S. to hit Iran hard",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bihar cabinet gives nod to fill up 22,981 posts of Anganwadi workers",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.36
+    },
+    {
+      "title": "Parliament Committee calls for upgrading washery infrastructure to spur domestic higher-quality coal production",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Delhi HC declines to stay HPV vaccination drive, seeks Centre\u2019s reply",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "BTS pulls out of Grammys after Asian pop category introduction",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.13
+    },
+    {
+      "title": "Ten years and 7 PMs later, did Brexit make a difference?",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Kerala Tourism to push for driver facilities in star-rating norms for hotels and resorts",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "AKPCTA seeks govt. intervention to end administrative crisis at technical varsity",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "City police incinerate 587 kg of suspected ganja, other seized contraband",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.25
+    },
+    {
+      "title": "Students return to Jantar Mantar over \u2018police crackdown\u2019",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "CAQM urges NCR States to deploy drones to monitor stubble burning",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.17
+    },
+    {
+      "title": "DMK, BJP and AIADMK share rare camaraderie while flagging civic issues at Council meeting",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.33
+    },
+    {
+      "title": "Govt. simplifies NEET-UG 2026 counselling process",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "GCC councillors accuse State govt. of denying their rights",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "GCC Council passes 19 resolutions at nearly six-hour long meeting",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.07
+    },
+    {
+      "title": "DVAC books former DMK Minister Senthilbalaji; conducts searches at 41 locations across T.N.",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Textile associations demand measures to reduce power costs in T.N.",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.47
+    },
+    {
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Nicaragua\u2019s Daniel Ortega aims to bar \u2018traitors\u2019 from future elections",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.5
+    },
+    {
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iraq calls Saudi-US attacks a \u2018flagrant violation of sovereignty\u2019",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Is FIFA selling parts of the World Cup to private investors?",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.14
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Trump\u2019s attorney general pick faces possible Republican roadblock",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Algeria elects first-ever woman speaker of parliament",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "James Comey\u2019s lawyers say US government distorted details in seashell case",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "New investigation shows how an Israeli settler escaped justice",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Ice cream for education: Gaza cafe raises funds for studies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.44
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": -0.08
+    },
+    {
+      "title": "'Machines are collaborators' at this new museum of AI art",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.1
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "French minister under fire for Playboy magazine cover",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Britain's pound is beating every other major currency this year",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Finland's Prime Minister Sanna Marin concedes election",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.18
+    },
+    {
+      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Video shows moment man throws yogurt on two women in Iran",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.12
+    },
+    {
+      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.09
+    },
+    {
+      "title": "Erdogan's political fate may be determined by Turkey's Kurds",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.06
+    },
+    {
+      "title": "Man rides out tornado inside van. See the footage",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "China Renaissance suspends trading, delays results after founder's disappearance",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "HSBC's top execs face tense shareholders calling for a breakup",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Lawmaker speaks out about his struggle with depression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "CEOs are tired of being held responsible for gun regulation",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "What pet cemeteries reveal about being human",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.28
+    },
+    {
+      "title": "Scientists film deepest ever fish on seabed off Japan",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.05
+    },
+    {
+      "title": "What OPEC's surprise oil cut means for gas prices",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.4
+    },
+    {
+      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "These are the animals people most want to see photographed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.35
+    },
+    {
+      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.21
+    },
+    {
+      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.04
+    },
+    {
+      "title": "See the world's deepest fish",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.38
+    },
+    {
+      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Teenage swimmer breaks two world records in four days",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "Shania Twain calls for equal pay and more diversity in country music",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "What is the rationale behind Cauvery panel\u2019s decision on release of water to T.N. | Explained",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A.P. to get four female tigers from Maharashtra and Madhya Pradesh soon",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "CJP\u2019s Dipke warns Govt. against 'harassing' students; seeks action over pellet gun use",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Karnataka getting ready for Tamil Nadu CM Vijay\u2019s possible visit",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "Bankipur byelection: Polling begins as all eyes on contest between Prashant Kishor and BJP\u2019s Neeraj Kumar Sinha",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military launches new strikes on Iran",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Join BJP or parents will be in trouble: Dipke's mother recalls \u2018video threat\u2019 her son received",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "CJP protest | Fresh reports of detentions, takedown of social media posts emerge",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "Centre\u2019s assurance cannot override statutory processes governing withdrawal of FIRs, experts say",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Cauvery row: Cauvery Water Management Authority\u2019s meeting on July 30",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "\u2018Ramayana\u2019 Rama glimpse: Ranbir Kapoor holds sway as the Lord in Nitesh Tiwari\u2019s magnum opus",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kavach 4.0 set for major expansion across SCR, ScoR networks",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "\u2018Don\u2019t be nosy parkers' in marriages of consenting adults, Allahabad HC tells U.P. Police",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Lawyers teamed up to ensure bail within hours of SC order for 16 arrested over July 24 Kolkata stir",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Farmer, worker groups to intensify protests against Centre\u2019s policies",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Madhya Pradesh hikes moong procurement cap to 60% as farmers protest",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "PM Modi to lay foundation stone on November 20 for two sugar mills at Sakri & Raiyam in Bihar",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "CWG 2026 India\u2019s medal tally: Complete list of winners and table",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Commonwealth Games: Sreeshankar leaps into history with second straight silver for long jump; Tajay Gayle wins gold",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port: British maritime security firm",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Salman Rushdie testifies against man charged with stabbing him",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Morning Digest: Iran, U.S. resume strikes in West Asia after brief pause; Oppn. plans to raise Ram Temple donation \u2018scam\u2019 in Parliament, and more",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kashmir\u2019s first ever international film festival attracts 875 submissions from 50 countries",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Public Examinations Amendment Bill 2026: Tougher penalties face implementation hurdles, backlog challenges",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "West Asia war updates: Trump says U.S. to hit Iran hard",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bihar cabinet gives nod to fill up 22,981 posts of Anganwadi workers",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.36
+    },
+    {
+      "title": "Parliament Committee calls for upgrading washery infrastructure to spur domestic higher-quality coal production",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Delhi HC declines to stay HPV vaccination drive, seeks Centre\u2019s reply",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "BTS pulls out of Grammys after Asian pop category introduction",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.13
+    },
+    {
+      "title": "Ten years and 7 PMs later, did Brexit make a difference?",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Kerala Tourism to push for driver facilities in star-rating norms for hotels and resorts",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "AKPCTA seeks govt. intervention to end administrative crisis at technical varsity",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "City police incinerate 587 kg of suspected ganja, other seized contraband",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.25
+    },
+    {
+      "title": "Students return to Jantar Mantar over \u2018police crackdown\u2019",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "CAQM urges NCR States to deploy drones to monitor stubble burning",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.17
+    },
+    {
+      "title": "DMK, BJP and AIADMK share rare camaraderie while flagging civic issues at Council meeting",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.33
+    },
+    {
+      "title": "Govt. simplifies NEET-UG 2026 counselling process",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "GCC councillors accuse State govt. of denying their rights",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "GCC Council passes 19 resolutions at nearly six-hour long meeting",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.07
+    },
+    {
+      "title": "DVAC books former DMK Minister Senthilbalaji; conducts searches at 41 locations across T.N.",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Textile associations demand measures to reduce power costs in T.N.",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.47
+    },
+    {
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Nicaragua\u2019s Daniel Ortega aims to bar \u2018traitors\u2019 from future elections",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.5
+    },
+    {
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iraq calls Saudi-US attacks a \u2018flagrant violation of sovereignty\u2019",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Is FIFA selling parts of the World Cup to private investors?",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.14
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Trump\u2019s attorney general pick faces possible Republican roadblock",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Algeria elects first-ever woman speaker of parliament",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "James Comey\u2019s lawyers say US government distorted details in seashell case",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "New investigation shows how an Israeli settler escaped justice",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Ice cream for education: Gaza cafe raises funds for studies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.44
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": -0.08
+    },
+    {
+      "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.1
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "French minister under fire for Playboy magazine cover",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Britain's pound is beating every other major currency this year",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Finland's Prime Minister Sanna Marin concedes election",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.18
+    },
+    {
+      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Video shows moment man throws yogurt on two women in Iran",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.12
+    },
+    {
+      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.09
+    },
+    {
+      "title": "Erdogan's political fate may be determined by Turkey's Kurds",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.06
+    },
+    {
+      "title": "Man rides out tornado inside van. See the footage",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "China Renaissance suspends trading, delays results after founder's disappearance",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "HSBC's top execs face tense shareholders calling for a breakup",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Lawmaker speaks out about his struggle with depression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "CEOs are tired of being held responsible for gun regulation",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "What pet cemeteries reveal about being human",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.28
+    },
+    {
+      "title": "Scientists film deepest ever fish on seabed off Japan",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.05
+    },
+    {
+      "title": "What OPEC's surprise oil cut means for gas prices",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.4
+    },
+    {
+      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "These are the animals people most want to see photographed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.35
+    },
+    {
+      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.21
+    },
+    {
+      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.04
+    },
+    {
+      "title": "See the world's deepest fish",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.38
+    },
+    {
+      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Teenage swimmer breaks two world records in four days",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "Shania Twain calls for equal pay and more diversity in country music",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Guru Purnima special: How Gen Z is redefining the rules of learning in classical arts",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "What is the rationale behind Cauvery panel\u2019s decision on release of water to T.N.? | Explained",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Behind China\u2019s AI gift, a constraint",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "A.P. to get four female tigers from Maharashtra and Madhya Pradesh soon",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "CJP\u2019s Dipke warns Govt. against 'harassing' students; seeks action over pellet gun use",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Karnataka getting ready for Tamil Nadu CM Vijay\u2019s possible visit",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "Bankipur byelection: Polling begins as all eyes on contest between Prashant Kishor and BJP\u2019s Neeraj Kumar Sinha",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military launches new strikes on Iran",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Join BJP or parents will be in trouble: Dipke's mother recalls \u2018video threat\u2019 her son received",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "CJP protest | Fresh reports of detentions, takedown of social media posts emerge",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "Centre\u2019s assurance cannot override statutory processes governing withdrawal of FIRs, experts say",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Cauvery row: Cauvery Water Management Authority\u2019s meeting on July 30",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "\u2018Ramayana\u2019 Rama glimpse: Ranbir Kapoor holds sway as the Lord in Nitesh Tiwari\u2019s magnum opus",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kavach 4.0 set for major expansion across SCR, ScoR networks",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "\u2018Don\u2019t be nosy parkers' in marriages of consenting adults, Allahabad HC tells U.P. Police",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Lawyers teamed up to ensure bail within hours of SC order for 16 arrested over July 24 Kolkata stir",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Farmer, worker groups to intensify protests against Centre\u2019s policies",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Madhya Pradesh hikes moong procurement cap to 60% as farmers protest",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "PM Modi to lay foundation stone on November 20 for two sugar mills at Sakri & Raiyam in Bihar",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "CWG 2026 India\u2019s medal tally: Complete list of winners and table",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Commonwealth Games: Sreeshankar leaps into history with second straight silver for long jump; Tajay Gayle wins gold",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port: British maritime security firm",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Salman Rushdie testifies against man charged with stabbing him",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Morning Digest: Iran, U.S. resume strikes in West Asia after brief pause; Oppn. plans to raise Ram Temple donation \u2018scam\u2019 in Parliament, and more",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kashmir\u2019s first ever international film festival attracts 875 submissions from 50 countries",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Public Examinations Amendment Bill 2026: Tougher penalties face implementation hurdles, backlog challenges",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "West Asia war updates: Trump says U.S. to hit Iran hard",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bihar cabinet gives nod to fill up 22,981 posts of Anganwadi workers",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.36
+    },
+    {
+      "title": "Parliament Committee calls for upgrading washery infrastructure to spur domestic higher-quality coal production",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Delhi HC declines to stay HPV vaccination drive, seeks Centre\u2019s reply",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "BTS pulls out of Grammys after Asian pop category introduction",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.13
+    },
+    {
+      "title": "Ten years and 7 PMs later, did Brexit make a difference?",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Kerala Tourism to push for driver facilities in star-rating norms for hotels and resorts",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "AKPCTA seeks govt. intervention to end administrative crisis at technical varsity",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "City police incinerate 587 kg of suspected ganja, other seized contraband",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.25
+    },
+    {
+      "title": "Students return to Jantar Mantar over \u2018police crackdown\u2019",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "CAQM urges NCR States to deploy drones to monitor stubble burning",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.17
+    },
+    {
+      "title": "DMK, BJP and AIADMK share rare camaraderie while flagging civic issues at Council meeting",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.33
+    },
+    {
+      "title": "Govt. simplifies NEET-UG 2026 counselling process",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "GCC councillors accuse State govt. of denying their rights",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "GCC Council passes 19 resolutions at nearly six-hour long meeting",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.07
+    },
+    {
+      "title": "Dramatic sea rescue as firefighters die on the Greek island of Crete",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.47
+    },
+    {
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Nicaragua\u2019s Daniel Ortega aims to bar \u2018traitors\u2019 from future elections",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.5
+    },
+    {
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iraq calls Saudi-US attacks a \u2018flagrant violation of sovereignty\u2019",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Is FIFA selling parts of the World Cup to private investors?",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.14
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Trump\u2019s attorney general pick faces possible Republican roadblock",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Algeria elects first-ever woman speaker of parliament",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "James Comey\u2019s lawyers say US government distorted details in seashell case",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "New investigation shows how an Israeli settler escaped justice",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.44
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": -0.08
+    },
+    {
+      "title": "'Machines are collaborators' at this new museum of AI art",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.1
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "French minister under fire for Playboy magazine cover",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Britain's pound is beating every other major currency this year",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Finland's Prime Minister Sanna Marin concedes election",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.18
+    },
+    {
+      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Video shows moment man throws yogurt on two women in Iran",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.12
+    },
+    {
+      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.09
+    },
+    {
+      "title": "Erdogan's political fate may be determined by Turkey's Kurds",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.06
+    },
+    {
+      "title": "Man rides out tornado inside van. See the footage",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "China Renaissance suspends trading, delays results after founder's disappearance",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "HSBC's top execs face tense shareholders calling for a breakup",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Lawmaker speaks out about his struggle with depression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "CEOs are tired of being held responsible for gun regulation",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "What pet cemeteries reveal about being human",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.28
+    },
+    {
+      "title": "Scientists film deepest ever fish on seabed off Japan",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.05
+    },
+    {
+      "title": "What OPEC's surprise oil cut means for gas prices",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.4
+    },
+    {
+      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "These are the animals people most want to see photographed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.35
+    },
+    {
+      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.21
+    },
+    {
+      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.04
+    },
+    {
+      "title": "See the world's deepest fish",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.38
+    },
+    {
+      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Teenage swimmer breaks two world records in four days",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "Shania Twain calls for equal pay and more diversity in country music",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "CJP\u2019s Dipke warns Govt. against 'harassing' students; seeks action over pellet gun use",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military launches new strikes on Iran",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "NICE road project is \u2018biggest scam\u2019 in Karnataka requiring independent probe and forensic audit: High Court",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Voting begins for Datia bypoll in Madhya Pradesh; 2.20 lakh voters to decide fate of 21 candidates",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bollywood between the devil and deep sea",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.01
+    },
+    {
+      "title": "Bankipur byelection: Polling under way as all eyes on contest between Prashant Kishor and BJP\u2019s Neeraj Kumar Sinha",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kerala Civil Police Officer suspended over custodial assault leading to bus driver\u2019s death",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Why is the founder of Telegram on Russia\u2019s wanted list | Explained",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Guru Purnima special: How Gen Z is redefining the rules of learning in classical arts",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "What is the rationale behind Cauvery panel\u2019s decision on release of water to T.N.? | Explained",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Behind China\u2019s AI gift, a constraint",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "A.P. to get four female tigers from Maharashtra and Madhya Pradesh soon",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Karnataka getting ready for Tamil Nadu CM Vijay\u2019s possible visit",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "Join BJP or parents will be in trouble: Dipke's mother recalls \u2018video threat\u2019 her son received",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "CJP protest | Fresh reports of detentions, takedown of social media posts emerge",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "Centre\u2019s assurance cannot override statutory processes governing withdrawal of FIRs, experts say",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Cauvery row: Cauvery Water Management Authority\u2019s meeting on July 30",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "\u2018Ramayana\u2019 Rama glimpse: Ranbir Kapoor holds sway as the Lord in Nitesh Tiwari\u2019s magnum opus",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kavach 4.0 set for major expansion across SCR, ScoR networks",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "\u2018Don\u2019t be nosy parkers' in marriages of consenting adults, Allahabad HC tells U.P. Police",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Lawyers teamed up to ensure bail within hours of SC order for 16 arrested over July 24 Kolkata stir",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Farmer, worker groups to intensify protests against Centre\u2019s policies",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Madhya Pradesh hikes moong procurement cap to 60% as farmers protest",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "PM Modi to lay foundation stone on November 20 for two sugar mills at Sakri & Raiyam in Bihar",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "CWG 2026 India\u2019s medal tally: Complete list of winners and table",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Commonwealth Games: Sreeshankar leaps into history with second straight silver for long jump; Tajay Gayle wins gold",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port: British maritime security firm",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Salman Rushdie testifies against man charged with stabbing him",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Morning Digest: Iran, U.S. resume strikes in West Asia after brief pause; Oppn. plans to raise Ram Temple donation \u2018scam\u2019 in Parliament, and more",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kashmir\u2019s first ever international film festival attracts 875 submissions from 50 countries",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Public Examinations Amendment Bill 2026: Tougher penalties face implementation hurdles, backlog challenges",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "West Asia war updates: Trump says U.S. to hit Iran hard",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bihar cabinet gives nod to fill up 22,981 posts of Anganwadi workers",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.36
+    },
+    {
+      "title": "Parliament Committee calls for upgrading washery infrastructure to spur domestic higher-quality coal production",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Delhi HC declines to stay HPV vaccination drive, seeks Centre\u2019s reply",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "BTS pulls out of Grammys after Asian pop category introduction",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.13
+    },
+    {
+      "title": "Ten years and 7 PMs later, did Brexit make a difference?",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Kerala Tourism to push for driver facilities in star-rating norms for hotels and resorts",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "AKPCTA seeks govt. intervention to end administrative crisis at technical varsity",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "City police incinerate 587 kg of suspected ganja, other seized contraband",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.25
+    },
+    {
+      "title": "Students return to Jantar Mantar over \u2018police crackdown\u2019",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "CAQM urges NCR States to deploy drones to monitor stubble burning",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.17
+    },
+    {
+      "title": "DMK, BJP and AIADMK share rare camaraderie while flagging civic issues at Council meeting",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.33
+    },
+    {
+      "title": "\u2018Like volcanic ash falling\u2019: Inside Aeon mall after Japan\u2019s earthquake",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "US launches another round of attacks on Iran",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Israeli strikes leave buildings burning in Gaza City",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dramatic sea rescue as firefighters die on the Greek island of Crete",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.47
+    },
+    {
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Nicaragua\u2019s Daniel Ortega aims to bar \u2018traitors\u2019 from future elections",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.5
+    },
+    {
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iraq calls Saudi-US attacks a \u2018flagrant violation of sovereignty\u2019",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Is FIFA selling parts of the World Cup to private investors?",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.14
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Trump\u2019s attorney general pick faces possible Republican roadblock",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Algeria elects first-ever woman speaker of parliament",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.44
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": -0.08
+    },
+    {
+      "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.1
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "French minister under fire for Playboy magazine cover",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Britain's pound is beating every other major currency this year",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Finland's Prime Minister Sanna Marin concedes election",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.18
+    },
+    {
+      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Video shows moment man throws yogurt on two women in Iran",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.12
+    },
+    {
+      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.09
+    },
+    {
+      "title": "Erdogan's political fate may be determined by Turkey's Kurds",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.06
+    },
+    {
+      "title": "Man rides out tornado inside van. See the footage",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "China Renaissance suspends trading, delays results after founder's disappearance",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "HSBC's top execs face tense shareholders calling for a breakup",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Lawmaker speaks out about his struggle with depression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "CEOs are tired of being held responsible for gun regulation",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "What pet cemeteries reveal about being human",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.28
+    },
+    {
+      "title": "Scientists film deepest ever fish on seabed off Japan",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.05
+    },
+    {
+      "title": "What OPEC's surprise oil cut means for gas prices",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.4
+    },
+    {
+      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "These are the animals people most want to see photographed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.35
+    },
+    {
+      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.21
+    },
+    {
+      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.04
+    },
+    {
+      "title": "See the world's deepest fish",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.38
+    },
+    {
+      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Teenage swimmer breaks two world records in four days",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "Shania Twain calls for equal pay and more diversity in country music",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "U.S. launches strikes on Iranian targets day after it foiled missile attack on American forces",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.35
+    },
+    {
+      "title": "Kerala Civil Police Officer suspended over custodial assault leading to bus driver\u2019s death",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "CJP protest | Fresh reports of detentions, takedown of social media posts emerge",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "Two arrested for allegedly threatening bar staff with fake pistol in Kalaburagi",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Parliament Monsoon Session Day 9 LIVE: Lok Sabha to take up SC Judges Bill as Rajya Sabha discusses anti-paper leak Bill",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Inside the Indian bars named among Asia\u2019s 50 Best Bars 2026",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.29
+    },
+    {
+      "title": "Japan quake toll hits 28 as survivors struggle in heat",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "T.G. Mohandas case: 27 AIYF activists booked for protest march to Hindutva ideologue\u2019s house",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Voting begins for Datia bypoll in Madhya Pradesh; 2.20 lakh voters to decide fate of 21 candidates",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Case booked against bank manager for diverting funds to personal account in Bagalkot",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Salary from private sector employment cannot be excluded in \u2018Creamy Layer\u2019 assessment: Kerala HC",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Accept party\u2019s bypoll choice, says Narottam Mishra after Delhi visit",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Datia bypoll: Stage set for high-stakes battle as BJP, Congress candidates file nomination; Mishra gets emotional",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "30-year-old Shivamogga resident arrested for posing as PA to Karnataka CM, cheating",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Chhattisgarh Assembly polls | Congress retains all Ministers, drops eight MLAs in first list",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "CJP\u2019s Dipke warns Govt. against 'harassing' students; seeks action over pellet gun use",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military launches new strikes on Iran",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "NICE road project is \u2018biggest scam\u2019 in Karnataka requiring independent probe and forensic audit: High Court",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bollywood between the devil and deep sea",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.01
+    },
+    {
+      "title": "Bankipur byelection: Polling under way as all eyes on contest between Prashant Kishor and BJP\u2019s Neeraj Kumar Sinha",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Why is the founder of Telegram on Russia\u2019s wanted list | Explained",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Guru Purnima special: How Gen Z is redefining the rules of learning in classical arts",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "What is the rationale behind Cauvery panel\u2019s decision on release of water to T.N.? | Explained",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Behind China\u2019s AI gift, a constraint",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "A.P. to get four female tigers from Maharashtra and Madhya Pradesh soon",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Karnataka getting ready for Tamil Nadu CM Vijay\u2019s possible visit",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "Join BJP or parents will be in trouble: Dipke's mother recalls \u2018video threat\u2019 her son received",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Centre\u2019s assurance cannot override statutory processes governing withdrawal of FIRs, experts say",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Cauvery row: Cauvery Water Management Authority\u2019s meeting on July 30",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "\u2018Ramayana\u2019 Rama glimpse: Ranbir Kapoor holds sway as the Lord in Nitesh Tiwari\u2019s magnum opus",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kavach 4.0 set for major expansion across SCR, ScoR networks",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "\u2018Don\u2019t be nosy parkers' in marriages of consenting adults, Allahabad HC tells U.P. Police",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Lawyers teamed up to ensure bail within hours of SC order for 16 arrested over July 24 Kolkata stir",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Farmer, worker groups to intensify protests against Centre\u2019s policies",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Madhya Pradesh hikes moong procurement cap to 60% as farmers protest",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "PM Modi to lay foundation stone on November 20 for two sugar mills at Sakri & Raiyam in Bihar",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "CWG 2026 India\u2019s medal tally: Complete list of winners and table",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Commonwealth Games: Sreeshankar leaps into history with second straight silver for long jump; Tajay Gayle wins gold",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port: British maritime security firm",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Salman Rushdie testifies against man charged with stabbing him",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Morning Digest: Iran, U.S. resume strikes in West Asia after brief pause; Oppn. plans to raise Ram Temple donation \u2018scam\u2019 in Parliament, and more",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kashmir\u2019s first ever international film festival attracts 875 submissions from 50 countries",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Public Examinations Amendment Bill 2026: Tougher penalties face implementation hurdles, backlog challenges",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "West Asia war updates: Trump says U.S. to hit Iran hard",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bihar cabinet gives nod to fill up 22,981 posts of Anganwadi workers",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.36
+    },
+    {
+      "title": "Parliament Committee calls for upgrading washery infrastructure to spur domestic higher-quality coal production",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Delhi HC declines to stay HPV vaccination drive, seeks Centre\u2019s reply",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "BTS pulls out of Grammys after Asian pop category introduction",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.13
+    },
+    {
+      "title": "Ten years and 7 PMs later, did Brexit make a difference?",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Kerala Tourism to push for driver facilities in star-rating norms for hotels and resorts",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "AKPCTA seeks govt. intervention to end administrative crisis at technical varsity",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Evo Morales defiant after new Bolivia arrest warrant",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "Rescue operation in Argentina to free more than 100 snow-trapped tourists",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "\u2018Like volcanic ash falling\u2019: Inside Aeon mall after Japan\u2019s earthquake",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "US launches another round of attacks on Iran",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Israeli strikes leave buildings burning in Gaza City",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dramatic sea rescue as firefighters die on the Greek island of Crete",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.47
+    },
+    {
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Seven killed in Russian strikes on Kyiv, a day after Zelenskyy warning",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Nicaragua\u2019s Daniel Ortega aims to bar \u2018traitors\u2019 from future elections",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.5
+    },
+    {
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iraq calls Saudi-US attacks a \u2018flagrant violation of sovereignty\u2019",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Is FIFA selling parts of the World Cup to private investors?",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.14
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.44
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": -0.08
+    },
+    {
+      "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.1
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "French minister under fire for Playboy magazine cover",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Britain's pound is beating every other major currency this year",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Finland's Prime Minister Sanna Marin concedes election",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.18
+    },
+    {
+      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Video shows moment man throws yogurt on two women in Iran",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.12
+    },
+    {
+      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.09
+    },
+    {
+      "title": "Erdogan's political fate may be determined by Turkey's Kurds",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.06
+    },
+    {
+      "title": "Man rides out tornado inside van. See the footage",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "China Renaissance suspends trading, delays results after founder's disappearance",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "HSBC's top execs face tense shareholders calling for a breakup",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Lawmaker speaks out about his struggle with depression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "CEOs are tired of being held responsible for gun regulation",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "What pet cemeteries reveal about being human",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.28
+    },
+    {
+      "title": "Scientists film deepest ever fish on seabed off Japan",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.05
+    },
+    {
+      "title": "What OPEC's surprise oil cut means for gas prices",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.4
+    },
+    {
+      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "These are the animals people most want to see photographed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.35
+    },
+    {
+      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.21
+    },
+    {
+      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.04
+    },
+    {
+      "title": "See the world's deepest fish",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.2
+    },
+    {
+      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+      "source": "CNN",
+      "sentiment": "Negative",
+      "polarity": -0.38
+    },
+    {
+      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.3
+    },
+    {
+      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Teenage swimmer breaks two world records in four days",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+      "source": "CNN",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "Shania Twain calls for equal pay and more diversity in country music",
+      "source": "CNN",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Healing at Jantar Mantar CJP protest: In Pictures",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Kochi households face higher biomedical waste collection fee as Corporation set to trim subsidy",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.14
+    },
+    {
+      "title": "West Asia war LIVE: U.S. military launches new strikes on Iran",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Celebrate birthday, do pre-wedding shoot in open-top double decker Ambaari bus in Bengaluru, check prices",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Parliament Monsoon Session Day 9 LIVE: Lok Sabha to take up SC Judges Bill as Rajya Sabha discusses anti-paper leak Bill",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bombay HC asks Maharashtra govt. to give details of FDA inspections at State-run canteens, eating places",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.06
+    },
+    {
+      "title": "Salary from private sector employment cannot be excluded in \u2018Creamy Layer\u2019 assessment: Kerala HC",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "U.S. launches strikes on Iranian targets day after it foiled missile attack on American forces",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.35
+    },
+    {
+      "title": "Kerala Civil Police Officer suspended over custodial assault leading to bus driver\u2019s death",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "CJP protest | Fresh reports of detentions, takedown of social media posts emerge",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "Two arrested for allegedly threatening bar staff with fake pistol in Kalaburagi",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Inside the Indian bars named among Asia\u2019s 50 Best Bars 2026",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.29
+    },
+    {
+      "title": "Japan quake toll hits 28 as survivors struggle in heat",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "T.G. Mohandas case: 27 AIYF activists booked for protest march to Hindutva ideologue\u2019s house",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Voting begins for Datia bypoll in Madhya Pradesh; 2.20 lakh voters to decide fate of 21 candidates",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Case booked against bank manager for diverting funds to personal account in Bagalkot",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Accept party\u2019s bypoll choice, says Narottam Mishra after Delhi visit",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Datia bypoll: Stage set for high-stakes battle as BJP, Congress candidates file nomination; Mishra gets emotional",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "30-year-old Shivamogga resident arrested for posing as PA to Karnataka CM, cheating",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Chhattisgarh Assembly polls | Congress retains all Ministers, drops eight MLAs in first list",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "CJP\u2019s Dipke warns Govt. against 'harassing' students; seeks action over pellet gun use",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "NICE road project is \u2018biggest scam\u2019 in Karnataka requiring independent probe and forensic audit: High Court",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bollywood between the devil and deep sea",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.01
+    },
+    {
+      "title": "Bankipur byelection: Polling under way as all eyes on contest between Prashant Kishor and BJP\u2019s Neeraj Kumar Sinha",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Why is the founder of Telegram on Russia\u2019s wanted list | Explained",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Guru Purnima special: How Gen Z is redefining the rules of learning in classical arts",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "What is the rationale behind Cauvery panel\u2019s decision on release of water to T.N.? | Explained",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Behind China\u2019s AI gift, a constraint",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "A.P. to get four female tigers from Maharashtra and Madhya Pradesh soon",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Karnataka getting ready for Tamil Nadu CM Vijay\u2019s possible visit",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.4
+    },
+    {
+      "title": "Join BJP or parents will be in trouble: Dipke's mother recalls \u2018video threat\u2019 her son received",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.15
+    },
+    {
+      "title": "Centre\u2019s assurance cannot override statutory processes governing withdrawal of FIRs, experts say",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Cauvery row: Cauvery Water Management Authority\u2019s meeting on July 30",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "\u2018Ramayana\u2019 Rama glimpse: Ranbir Kapoor holds sway as the Lord in Nitesh Tiwari\u2019s magnum opus",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kavach 4.0 set for major expansion across SCR, ScoR networks",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.16
+    },
+    {
+      "title": "\u2018Don\u2019t be nosy parkers' in marriages of consenting adults, Allahabad HC tells U.P. Police",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Lawyers teamed up to ensure bail within hours of SC order for 16 arrested over July 24 Kolkata stir",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Farmer, worker groups to intensify protests against Centre\u2019s policies",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.03
+    },
+    {
+      "title": "Madhya Pradesh hikes moong procurement cap to 60% as farmers protest",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "PM Modi to lay foundation stone on November 20 for two sugar mills at Sakri & Raiyam in Bihar",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "CWG 2026 India\u2019s medal tally: Complete list of winners and table",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "Commonwealth Games: Sreeshankar leaps into history with second straight silver for long jump; Tajay Gayle wins gold",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port: British maritime security firm",
+      "source": "The Hindu",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Man convicted in terrorism trial over 2022 stabbing of author Salman Rushdie",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Salman Rushdie testifies against man charged with stabbing him",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": -0.05
+    },
+    {
+      "title": "Morning Digest: Iran, U.S. resume strikes in West Asia after brief pause; Oppn. plans to raise Ram Temple donation \u2018scam\u2019 in Parliament, and more",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Kashmir\u2019s first ever international film festival attracts 875 submissions from 50 countries",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Public Examinations Amendment Bill 2026: Tougher penalties face implementation hurdles, backlog challenges",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.1
+    },
+    {
+      "title": "West Asia war updates: Trump says U.S. to hit Iran hard",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Bihar cabinet gives nod to fill up 22,981 posts of Anganwadi workers",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.36
+    },
+    {
+      "title": "Parliament Committee calls for upgrading washery infrastructure to spur domestic higher-quality coal production",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    },
+    {
+      "title": "Delhi HC declines to stay HPV vaccination drive, seeks Centre\u2019s reply",
+      "source": "The Hindu",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "BTS pulls out of Grammys after Asian pop category introduction",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.13
+    },
+    {
+      "title": "Ten years and 7 PMs later, did Brexit make a difference?",
+      "source": "The Hindu",
+      "sentiment": "Positive",
+      "polarity": 0.19
+    },
+    {
+      "title": "Evo Morales defiant after new Bolivia arrest warrant",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.06
+    },
+    {
+      "title": "Rescue operation in Argentina to free more than 100 snow-trapped tourists",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "\u2018Like volcanic ash falling\u2019: Inside Aeon mall after Japan\u2019s earthquake",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "US launches another round of attacks on Iran",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Israeli strikes leave buildings burning in Gaza City",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Dramatic sea rescue as firefighters die on the Greek island of Crete",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.1
+    },
+    {
+      "title": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": -0.03
+    },
+    {
+      "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.47
+    },
+    {
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Seven killed in Russian strikes on Kyiv, a day after Zelenskyy warning",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.12
+    },
+    {
+      "title": "Nicaragua\u2019s Daniel Ortega aims to bar \u2018traitors\u2019 from future elections",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.5
+    },
+    {
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Iraq calls Saudi-US attacks a \u2018flagrant violation of sovereignty\u2019",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Is FIFA selling parts of the World Cup to private investors?",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.14
+    },
+    {
+      "title": "Myanmar court sentences activists to 37 years over election protest",
+      "source": "Al Jazeera",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.2
+    },
+    {
+      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "source": "Al Jazeera",
+      "sentiment": "Negative",
+      "polarity": -0.19
+    },
+    {
+      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "source": "Al Jazeera",
+      "sentiment": "Positive",
+      "polarity": 0.6
+    },
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.25
+    },
+    {
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.15
+    },
+    {
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.44
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.0
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": 0.07
+    },
+    {
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "source": "NPR",
+      "sentiment": "Neutral",
+      "polarity": -0.08
+    },
+    {
+      "title": "'Machines are collaborators' at this new museum of AI art",
+      "source": "NPR",
+      "sentiment": "Positive",
+      "polarity": 0.5
+    }
+  ]
+}

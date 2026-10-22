@@ -1,0 +1,59 @@
+{
+  "total_articles": 869,
+  "sentiment_distribution": {
+    "NEUTRAL": 473,
+    "POSITIVE": 275,
+    "NEGATIVE": 121
+  },
+  "emotion_distribution": {
+    "NEUTRAL": 685,
+    "OPTIMISM": 135,
+    "FEAR": 35,
+    "JOY": 14
+  },
+  "avg_polarity": 0.05310817031070195,
+  "avg_subjectivity": 0.3184798619102417,
+  "polarity_std": 0.19269367488582292,
+  "articles_sample": [
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "source": "CNN",
+      "sentiment": "NEGATIVE",
+      "polarity": -0.2,
+      "subjectivity": 0.4,
+      "emotion": "NEUTRAL"
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "source": "CNN",
+      "sentiment": "NEGATIVE",
+      "polarity": -0.1,
+      "subjectivity": 0.033,
+      "emotion": "NEUTRAL"
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "source": "CNN",
+      "sentiment": "POSITIVE",
+      "polarity": 0.155,
+      "subjectivity": 0.345,
+      "emotion": "NEUTRAL"
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "source": "CNN",
+      "sentiment": "NEUTRAL",
+      "polarity": 0.0,
+      "subjectivity": 0.067,
+      "emotion": "NEUTRAL"
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "source": "CNN",
+      "sentiment": "NEUTRAL",
+      "polarity": 0.0,
+      "subjectivity": 0.2,
+      "emotion": "NEUTRAL"
+    }
+  ]
+}
