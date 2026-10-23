@@ -1,0 +1,217 @@
+{
+  "params": {
+    "min_n": 5,
+    "min_diff": 0.1,
+    "alpha": 0.05,
+    "max_gap_days": 7
+  },
+  "series": {
+    "CNN": [
+      {
+        "date": "2023-04-03",
+        "n": 25,
+        "mean": -0.056
+      },
+      {
+        "date": "2023-04-04",
+        "n": 10,
+        "mean": -0.092
+      }
+    ],
+    "ALL": [
+      {
+        "date": "2023-04-03",
+        "n": 25,
+        "mean": -0.056
+      },
+      {
+        "date": "2023-04-04",
+        "n": 10,
+        "mean": -0.092
+      },
+      {
+        "date": "2026-07-29",
+        "n": 63,
+        "mean": -0.008
+      },
+      {
+        "date": "2026-07-30",
+        "n": 73,
+        "mean": -0.103
+      },
+      {
+        "date": "2026-10-18",
+        "n": 39,
+        "mean": -0.2
+      },
+      {
+        "date": "2026-10-19",
+        "n": 27,
+        "mean": -0.09
+      }
+    ],
+    "The Hindu": [
+      {
+        "date": "2026-07-29",
+        "n": 35,
+        "mean": 0.018
+      },
+      {
+        "date": "2026-07-30",
+        "n": 54,
+        "mean": -0.067
+      },
+      {
+        "date": "2026-10-18",
+        "n": 17,
+        "mean": -0.118
+      },
+      {
+        "date": "2026-10-19",
+        "n": 10,
+        "mean": -0.111
+      }
+    ],
+    "Al Jazeera": [
+      {
+        "date": "2026-07-29",
+        "n": 18,
+        "mean": -0.073
+      },
+      {
+        "date": "2026-07-30",
+        "n": 15,
+        "mean": -0.18
+      },
+      {
+        "date": "2026-10-18",
+        "n": 11,
+        "mean": -0.272
+      },
+      {
+        "date": "2026-10-19",
+        "n": 10,
+        "mean": -0.087
+      }
+    ],
+    "NPR": [
+      {
+        "date": "2026-07-29",
+        "n": 10,
+        "mean": 0.019
+      },
+      {
+        "date": "2026-10-18",
+        "n": 11,
+        "mean": -0.255
+      },
+      {
+        "date": "2026-10-19",
+        "n": 7,
+        "mean": -0.065
+      }
+    ]
+  },
+  "shifts": [
+    {
+      "source": "CNN",
+      "from": "2023-04-03",
+      "to": "2023-04-04",
+      "change": -0.036,
+      "p": 0.8117,
+      "direction": "more negative",
+      "n_from": 25,
+      "n_to": 10,
+      "significant": false
+    },
+    {
+      "source": "ALL",
+      "from": "2023-04-03",
+      "to": "2023-04-04",
+      "change": -0.036,
+      "p": 0.8117,
+      "direction": "more negative",
+      "n_from": 25,
+      "n_to": 10,
+      "significant": false
+    },
+    {
+      "source": "ALL",
+      "from": "2026-07-29",
+      "to": "2026-07-30",
+      "change": -0.095,
+      "p": 0.2552,
+      "direction": "more negative",
+      "n_from": 63,
+      "n_to": 73,
+      "significant": false
+    },
+    {
+      "source": "ALL",
+      "from": "2026-10-18",
+      "to": "2026-10-19",
+      "change": 0.109,
+      "p": 0.383,
+      "direction": "more positive",
+      "n_from": 39,
+      "n_to": 27,
+      "significant": false
+    },
+    {
+      "source": "The Hindu",
+      "from": "2026-07-29",
+      "to": "2026-07-30",
+      "change": -0.086,
+      "p": 0.4337,
+      "direction": "more negative",
+      "n_from": 35,
+      "n_to": 54,
+      "significant": false
+    },
+    {
+      "source": "The Hindu",
+      "from": "2026-10-18",
+      "to": "2026-10-19",
+      "change": 0.007,
+      "p": 0.9739,
+      "direction": "more positive",
+      "n_from": 17,
+      "n_to": 10,
+      "significant": false
+    },
+    {
+      "source": "Al Jazeera",
+      "from": "2026-07-29",
+      "to": "2026-07-30",
+      "change": -0.107,
+      "p": 0.5425,
+      "direction": "more negative",
+      "n_from": 18,
+      "n_to": 15,
+      "significant": false
+    },
+    {
+      "source": "Al Jazeera",
+      "from": "2026-10-18",
+      "to": "2026-10-19",
+      "change": 0.184,
+      "p": 0.4273,
+      "direction": "more positive",
+      "n_from": 11,
+      "n_to": 10,
+      "significant": false
+    },
+    {
+      "source": "NPR",
+      "from": "2026-10-18",
+      "to": "2026-10-19",
+      "change": 0.189,
+      "p": 0.4236,
+      "direction": "more positive",
+      "n_from": 11,
+      "n_to": 7,
+      "significant": false
+    }
+  ],
+  "source_gaps": []
+}

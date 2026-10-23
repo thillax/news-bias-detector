@@ -974,6 +974,45 @@ setInterval(updateCollectStatus, 30000);
         </button>
     </div>
 
+
+<div style="background:#1a1f2e;border:1px solid #2a3142;border-radius:15px;padding:25px;margin:20px 0;">
+  <div style="font-size:18px;font-weight:700;color:#667eea;margin-bottom:6px;">Sentiment Shift Detection</div>
+  <div id="shiftSummary" style="color:#8899aa;font-size:13px;margin-bottom:15px;">Loading...</div>
+  <canvas id="shiftChart" height="90"></canvas>
+  <table style="width:100%;margin-top:20px;font-size:13px;color:#e0e0e0;">
+    <thead><tr style="color:#8899aa;text-align:left;"><th>Source</th><th>Days</th><th>Change</th><th>Articles</th><th>p-value</th><th>Result</th></tr></thead>
+    <tbody id="shiftRows"></tbody>
+  </table>
+  <div style="color:#8899aa;font-size:12px;margin-top:12px;">Daily mean polarity per source (days with at least 5 articles). A shift is flagged only if the consecutive-day change is at least 0.10 and the Welch t-test p-value is below 0.05.</div>
+</div>
+<script>
+(function(){
+  fetch("/api/shifts").then(function(r){ return r.json(); }).then(function(d){
+    var series = d.series || {};
+    var srcs = Object.keys(series).filter(function(x){ return x !== "ALL"; });
+    var dates = [];
+    srcs.forEach(function(x){ series[x].forEach(function(p){ if(dates.indexOf(p.date) < 0){ dates.push(p.date); } }); });
+    dates.sort();
+    var colors = {"CNN":"#FF6384","The Hindu":"#36A2EB","Al Jazeera":"#FFCE56","NPR":"#4BC0C0"};
+    var datasets = srcs.map(function(x){
+      var m = {};
+      series[x].forEach(function(p){ m[p.date] = p.mean; });
+      return {label:x, data:dates.map(function(t){ return (t in m) ? m[t] : null; }), borderColor:colors[x] || "#9966FF", backgroundColor:colors[x] || "#9966FF", spanGaps:false, tension:0.3, pointRadius:5};
+    });
+    new Chart(document.getElementById("shiftChart"), {type:"line", data:{labels:dates, datasets:datasets}, options:{responsive:true, plugins:{legend:{labels:{color:"#e0e0e0"}}}, scales:{x:{ticks:{color:"#8899aa"}}, y:{ticks:{color:"#8899aa"}, title:{display:true, text:"Mean VADER polarity", color:"#8899aa"}}}}});
+    var moves = (d.shifts || []).filter(function(m){ return m.source !== "ALL"; });
+    var sig = moves.filter(function(m){ return m.significant; }).length;
+    document.getElementById("shiftSummary").textContent = sig + " statistically significant shift(s) among " + moves.length + " day-to-day comparisons.";
+    moves.sort(function(a, b){ return Math.abs(b.change) - Math.abs(a.change); });
+    var rows = moves.slice(0, 8).map(function(m){
+      var col = m.significant ? "#4CAF50" : "#8899aa";
+      var label = m.significant ? "SIGNIFICANT" : "not significant";
+      return "<tr><td>" + m.source + "</td><td>" + m.from + " to " + m.to + "</td><td>" + (m.change > 0 ? "+" : "") + m.change + "</td><td>" + m.n_from + " / " + m.n_to + "</td><td>" + m.p + "</td><td style='color:" + col + "'>" + label + "</td></tr>";
+    }).join("");
+    document.getElementById("shiftRows").innerHTML = rows || "<tr><td colspan='6'>No consecutive-day comparisons yet</td></tr>";
+  });
+})();
+</script>
 </body>
     </html>
     '''
@@ -1086,7 +1125,7 @@ def collect_new_articles():
                         continue
                     content_text = entry.get('summary','')
                     url_link = entry.get('link','')
-                    pub_date = str(datetime.now())
+                    pp = entry.get('published_parsed'); pub_date = time.strftime('%Y-%m-%d %H:%M:%S', pp) if pp else str(datetime.now())
                     
                     from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
                     analyzer = SentimentIntensityAnalyzer()
@@ -1188,6 +1227,15 @@ def export_csv():
         mimetype='text/csv',
         headers={'Content-Disposition': f'attachment; filename={filename}'}
     )
+
+
+@app.route('/api/shifts')
+def api_shifts():
+    try:
+        with open('sentiment_shifts.json', 'r', encoding='utf-8') as f:
+            return jsonify(json.load(f))
+    except Exception:
+        return jsonify({'series': {}, 'shifts': [], 'source_gaps': []})
 
 if __name__ == '__main__':
     print("\n" + "=" * 80)

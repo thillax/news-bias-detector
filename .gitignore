@@ -18,3 +18,5 @@
 !rss_fetcher.py
 !collected_articles/
 !collected_articles/*.json
+!sentiment_shifts.py
+!sentiment_shifts.json
