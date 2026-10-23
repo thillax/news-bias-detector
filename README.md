@@ -22,3 +22,5 @@ VADER scored 90% accuracy / macro F1 on a 40-sentence hand-labelled test set. Th
     python phase12_mass_dark.py
 
 **Live demo:** https://news-bias-detector-u4pu.onrender.com
+
+**Live demo:** https://news-bias-detector-u4pu.onrender.com
