@@ -16,7 +16,7 @@ Flask dashboard that collects news from CNN, The Hindu, Al Jazeera and NPR (RSS)
 - CSV export, user feedback (thumbs up/down); dashboard filters are work in progress
 
 ## Results (sentiment classification on labelled headlines)
-n = 207 headlines (93 negative, 81 neutral, 33 positive), labelled by: <unga real answer>.
+n = 207 headlines (93 negative, 81 neutral, 33 positive), labelled by: the author, by hand.
 5 seeds x 5-fold stratified CV, macro F1:
 
 | Model | Macro F1 |
@@ -36,4 +36,5 @@ This is below the 0.85 target. Reasons: small labelled set, subjective headline 
 ## Run locally
     pip install -r requirements.txt
     python phase12_mass_dark.py
+
 
