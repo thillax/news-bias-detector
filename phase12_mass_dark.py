@@ -997,7 +997,7 @@ setInterval(updateCollectStatus, 30000);
     var datasets = srcs.map(function(x){
       var m = {};
       series[x].forEach(function(p){ m[p.date] = p.mean; });
-      return {label:x, data:dates.map(function(t){ return (t in m) ? m[t] : null; }), borderColor:colors[x] || "#9966FF", backgroundColor:colors[x] || "#9966FF", spanGaps:false, tension:0.3, pointRadius:5};
+      return {label:x, data:dates.map(function(t){ return (t in m) ? m[t] : null; }), borderColor:colors[x] || "#9966FF", backgroundColor:colors[x] || "#9966FF", spanGaps:false, tension:0, pointRadius:5, segment:{borderDash:function(c){ var a=new Date(dates[c.p0DataIndex]), b=new Date(dates[c.p1DataIndex]); return (b-a)/86400000>7 ? [6,6] : undefined; }}};
     });
     new Chart(document.getElementById("shiftChart"), {type:"line", data:{labels:dates, datasets:datasets}, options:{responsive:true, plugins:{legend:{labels:{color:"#e0e0e0"}}}, scales:{x:{ticks:{color:"#8899aa"}}, y:{ticks:{color:"#8899aa"}, title:{display:true, text:"Mean VADER polarity", color:"#8899aa"}}}}});
     var moves = (d.shifts || []).filter(function(m){ return m.source !== "ALL"; });
