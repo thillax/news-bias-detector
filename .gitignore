@@ -20,3 +20,9 @@
 !collected_articles/*.json
 !sentiment_shifts.py
 !sentiment_shifts.json
+
+!train_model.py
+!train_model2.py
+!final_eval.py
+!label_me.csv
+!model_results.json

@@ -24,3 +24,17 @@ VADER scored 90% accuracy / macro F1 on a 40-sentence hand-labelled test set. Th
 **Live demo:** https://news-bias-detector-u4pu.onrender.com
 
 **Live demo:** https://news-bias-detector-u4pu.onrender.com
+
+## Results (sentiment classification on labelled headlines)
+
+n = 207 headlines (93 negative, 81 neutral, 33 positive), labelled by: <WHO LABELLED>.
+5 seeds x 5-fold stratified CV, macro F1:
+
+| Model | Macro F1 |
+|---|---|
+| TF-IDF + Logistic Regression | 0.436 +/- 0.030 |
+| VADER alone | 0.458 |
+| TF-IDF + VADER score as a feature | 0.570 +/- 0.010 |
+
+This is below the 0.85 target. Reasons: small labelled set, subjective headline labels, only 33 positive examples. Earlier 90% on 40 clear-cut test sentences was a sanity check, not a real-headline result.
+Next: larger multi-annotator dataset, DistilBERT fine-tune, SHAP.
