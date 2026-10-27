@@ -32,3 +32,7 @@
 !final_eval.py
 !label_me.csv
 !model_results.json
+
+!verify_labels.py
+!verify_results.json
+!label_tool.py

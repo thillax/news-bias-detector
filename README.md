@@ -39,3 +39,6 @@ This is below the 0.85 target. Reasons: small labelled set, subjective headline 
 
 
 
+
+## Label verification
+The sentiment labels were produced with AI assistance. To check them, the author independently labelled a random sample of 40 headlines without seeing the AI label: agreement 88%, Cohen's kappa 0.81.
